@@ -1,6 +1,10 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/HusainSuksar/HusainSuksar.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Husain. I've a side hobby of coding.
+Though I dont have much experience ,but i did have learn some stuff about HTML/CSS, udemy helped me alot , obviously.
+till now i have done some class project like creating a blog page with videos , sign-up page, and many hello world.html pages as a beginner.
+Mainly I used VS CODE for codding, its quite handy and easy to use and simple to learn for a beginner.
+I also have a bit of knowledge about Python , i have created some basic games using it and have tried to create a chat app. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -21,7 +25,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold** and _Italic_ and `Code` text 
 
 [Link](url) and ![Image](src)
 ```
