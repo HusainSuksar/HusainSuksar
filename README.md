@@ -2,7 +2,7 @@
 
 ## Obviously you know my name. 
 #### Apart from my studies , one of my hobby is coding. 
-**Though I dont have much experience ,but I  have learned so far 
+**Though I dont have much experience ,but I  have learned so far**
 > HTML/CSS (obviously),
 > basics of python programming, 
 > and backend languages such as C#(C_SHARP) && basics of php udemy helped me alot, without-doubt.
