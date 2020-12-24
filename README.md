@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-## My name is Husain. I've a side hobby of coding.
-## Though I dont have much experience ,but i did have learn some stuff about HTML/CSS, udemy helped me alot , obviously.
+## Obviously you know my name. 
+## Apart from my studies , one of my hobby is coding. 
+## Though I dont have much experience ,but I  have learned so far  HTML/CSS (obviously),basics of python programming, and backend languages such as C#(C_SHARP) && basics of php udemy helped me alot, without-doubt.
 
-## Till now i have done some class project like creating a blog page with videos , sign-up page, and many hello world.html pages as a beginner.
+## Till now I have done some class project like creating a 
+**1) blog page with videos ,
+2) sign-up pages,
+**3) many hello world.html pages as a beginner,
+4) developed an E-library management system using ASP.NET , Bootstrap && C# as a backend.
+**5) build some basic games using python && a chat app.
 
-**Mainly I used VS CODE for codding, its quite handy and easy to use and simple to learn for a beginner.
-I also have a bit of knowledge about Python , i have created some basic games using it and have tried to create a chat app.**
+**So if you are interested in any of this and wanna join me, or wanna company me , contact me via my email : hussainsuksar101@gmail.com  
 
 
 
