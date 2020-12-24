@@ -5,7 +5,7 @@
 **Though I dont have much experience ,but I  have learned so far**
 > HTML/CSS (obviously),
 > basics of python programming, 
-> and backend languages such as C#(C_SHARP) && basics of php udemy helped me alot, without-doubt.
+> and backend languages such as C#(C_SHARP) && basics of php, (udemy helped me alot)  without-doubt.
 
 ## Till now I have done some class project like creating some
 > 1) blog page with videos ,
